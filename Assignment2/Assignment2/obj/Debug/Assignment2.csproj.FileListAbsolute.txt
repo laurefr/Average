@@ -1,0 +1,6 @@
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
